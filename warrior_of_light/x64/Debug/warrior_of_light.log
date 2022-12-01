@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(warrior_of_light.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+C:\Users\Ame\Desktop\warrior_of_light\main.cpp(13,7): warning C4101: “ch”: 未引用的局部变量
+  warrior_of_light.vcxproj -> C:\Users\Ame\Desktop\warrior_of_light\x64\Debug\Ravenous_Assault.exe
